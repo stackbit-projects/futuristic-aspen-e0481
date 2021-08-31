@@ -116,5 +116,6 @@
         "anncmnt_is_home_only": true,
         "anncmnt_has_close": true,
         "anncmnt_id": "new-episode"
-    }
+    },
+    "domain": "https://futuristic-aspen-e0481.netlify.app"
 }
